@@ -4,6 +4,7 @@
     "email": "genm2501@gmail.com"
   },
   "record": {
-    "CNAME": "portofolio-septian-phi.vercel.app"
+    "CNAME": "cd0ab08dc3afa2ba.vercel-dns-017.com.",
+    "TXT": "vc-domain-verify=portofolio-septian.is.a.dev,31e59fdff44000523736"
   }
 }
